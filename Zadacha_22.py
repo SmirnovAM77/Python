@@ -11,6 +11,6 @@ print(*list2)
 union1 = set(list1)
 union2 = set(list2)
 union = union2.intersection(union1)
-union3 = union
+union3 = union #почему-то без еще одного добавления множества, числа не сортировались по возрастающей
 print(*union3)
 
