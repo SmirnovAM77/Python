@@ -13,11 +13,3 @@ for i in range(0, len(list1)):
     if list1[i] >= min1 and list1[i] <= max1:
         index1.append(i)
 print(index1)
-
-#a1 = int(input("Введите первый элекиент прогресси: "))
-#dif = int(input("Введите разность элементоа для прогрессии: "))
-#len1 = int(input("Введите количество элементов прогрессии: "))
-#list1 = []
-#for i in range (1, len1 + 1):
-#    list1.append(a1 + (i - 1) * dif)
-#print(list1)
