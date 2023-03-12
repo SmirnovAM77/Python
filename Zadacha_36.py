@@ -7,6 +7,8 @@
 #Ввод:
 #print_operation_table(lambda x, y: x * y)
 
+#ДВУМЕРНЫЕ СПИСКИ
+
 column = int(input("Введите количество колонок: "))
 line = int(input("Введите количество строк: "))
 matrix = []
